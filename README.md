@@ -1,7 +1,7 @@
 ### Hey :wave:
 
 I'm **[Manish Budhiraja](https://www.linkedin.com/in/imbudhiraja/)**, a human being who is passionate about simplifying things through technology.
-Currently I am working as a **[Senior Software Engineer]**. I adores JavaScript a lot and I work with all kinds of modern JavaScript. I am **addicted to green dots** on [GitHub](https://github.com/imbudhiraja?tab=repositories).
+Currently I am working as a **Senior Software Engineer**. I adores JavaScript a lot and I work with all kinds of modern JavaScript. I am **addicted to green dots** on [GitHub](https://github.com/imbudhiraja?tab=repositories).
 
 <br /> **You can find me on [LinkedIn](https://www.linkedin.com/in/imbudhiraja/) and [Medium](https://medium.com/@imbudhiraja)**.
 
