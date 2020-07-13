@@ -1,14 +1,35 @@
 ### Hey :wave:
 
 I'm **[Manish Budhiraja](https://www.linkedin.com/in/imbudhiraja/)**, a human being who is passionate about simplifying things through technology.
-Currently I am working as a **[Senior Software Engineer]**. I adores JavaScript a lot and I work with all kinds of modern JavaScript. **You can find me on [LinkedIn](https://www.linkedin.com/in/imbudhiraja/) and [Medium](https://medium.com/@imbudhiraja)**.
+Currently I am working as a **[Senior Software Engineer]**. I adores JavaScript a lot and I work with all kinds of modern JavaScript. I am **addicted to green dots** on [GitHub](https://github.com/imbudhiraja?tab=repositories).
 
-I am **addicted to green dots** on [GitHub](https://github.com/imbudhiraja?tab=repositories).
-[![Manish Budhiraja's github stats](https://github-readme-stats.vercel.app/api?username=imbudhiraja&show_icons=true)](https://github.com/imbudhiraja/)
+<br /> **You can find me on [LinkedIn](https://www.linkedin.com/in/imbudhiraja/) and [Medium](https://medium.com/@imbudhiraja)**.
+
+
+### :gear: My skills include:
+
+- **Languages**: `C++`, `JavaScript`, `Python(Begineer Level)`
+
+- **Frontend**: `React-Native`, `ReactJS`, `Next.js`, `Redux`, `Redux Saga`, `Redux Thunk`, `HTML`, `CSS`, `SCSS`, `Webpack`, `Appcelerator Titanium`
+
+- **Backend**: `Node.js`, `Express`, `Hapi`, `GraphQl`, `Socket.io`, `Firebase`
+
+- **Databases**: `MongoDB`, `Postgresql`
+
+- **Testing frameworks**: `Mocha`, `Chai`, `Sinon`, `Enzyme`, `Jest`, `Snapshot Testing`
+
+- **Technical Practices**: `Agile`, `Test Driven Development`, `REST API Design`, `PWA`
+
+
 
 ### :octocat: Open Source
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/imbudhiraja) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/imbudhiraja/express-boilerplate)
+
+
+[![Manish's github stats](https://github-readme-stats.vercel.app/api?username=imbudhiraja&show_icons=true)](https://github.com/imbudhiraja/)
+
+
 
 Currently, I'm maintaining two projects which is part of many open-source programs such as
 
@@ -16,6 +37,9 @@ Currently, I'm maintaining two projects which is part of many open-source progra
 2. [React-Native-Loader](https://github.com/imbudhiraja/react-native-lottie-loader)
 3. [React Native Avatar](https://github.com/imbudhiraja/rn-avatar)
 4. [Express Boilerplate](https://github.com/imbudhiraja/express-boilerplate)
+
+
+### :book: Blogs/Stories
 
 Read the following Medium stories to learn more:
 1. [Mistakes I made as a ReactJS/React Native Developer](https://medium.com/@imbudhiraja/mistakes-i-made-as-a-reactjs-react-native-developer-af2e8e07d4d)
