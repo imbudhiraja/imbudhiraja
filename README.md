@@ -31,7 +31,7 @@ Currently I am working as a **Senior Software Engineer**. I adores JavaScript a 
 
 
 
-Currently, I'm maintaining two projects which is part of many open-source programs such as
+Currently, I'm maintaining following projects which is part of many open-source programs such as
 
 1. [Eslint Config](https://github.com/imbudhiraja/eslint-config-imbudhiraja)
 2. [React-Native-Loader](https://github.com/imbudhiraja/react-native-lottie-loader)
