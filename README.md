@@ -26,7 +26,6 @@ Currently I am working as a **Senior Software Engineer**. I adores JavaScript a 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/imbudhiraja) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/imbudhiraja/express-boilerplate)
 
 [![Manish's github stats](https://github-readme-stats.vercel.app/api?username=imbudhiraja&show_icons=true)](https://github.com/imbudhiraja/)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imbudhiraja)](https://github.com/imbudhiraja/)
 
 Currently, I'm maintaining following projects which is part of many open-source programs such as
 
