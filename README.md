@@ -10,9 +10,9 @@ Currently I am working as a **Senior Software Engineer**. I adores JavaScript a 
 
 - **Languages**: `C++`, `JavaScript`, `Python(Begineer Level)`
 
-- **Frontend**: `React-Native`, `ReactJS`, `Next.js`, `Redux`, `Redux Saga`, `Redux Thunk`, `HTML`, `CSS`, `SCSS`, `Webpack`, `Appcelerator Titanium`
+- **Frontend**: `React-Native`, `ReactJS`, `Next.js`, `Redux`, `Redux Saga`, `Redux Thunk`, `HTML`, `CSS`, `SCSS`, `Webpack`, `Appcelerator Titanium`, `Apollo Client`
 
-- **Backend**: `Node.js`, `Express`, `Hapi`, `GraphQl`, `Socket.io`, `Firebase`
+- **Backend**: `Node.js`, `Express`, `Hapi`, `GraphQl`, `Socket.io`, `Firebase`, `Apollo Server`
 
 - **Databases**: `MongoDB`, `Postgresql`
 
@@ -21,15 +21,12 @@ Currently I am working as a **Senior Software Engineer**. I adores JavaScript a 
 - **Technical Practices**: `Agile`, `Test Driven Development`, `REST API Design`, `PWA`
 
 
-
 ### :octocat: Open Source
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/imbudhiraja) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/imbudhiraja/express-boilerplate)
 
-
 [![Manish's github stats](https://github-readme-stats.vercel.app/api?username=imbudhiraja&show_icons=true)](https://github.com/imbudhiraja/)
-
-
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imbudhiraja)](https://github.com/imbudhiraja/)
 
 Currently, I'm maintaining following projects which is part of many open-source programs such as
 
