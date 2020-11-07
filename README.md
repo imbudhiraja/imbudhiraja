@@ -58,6 +58,4 @@ Thank you so much for visiting my tiny space on [GitHub](https://github.com/imbu
 ----
 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@imbudhiraja&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/imbudhiraja/) [![Twitter Follow](https://img.shields.io/twitter/follow/imbudhiraja?style=social)](https://twitter.com/imbudhiraja) [![GitHub followers](https://img.shields.io/github/followers/imbudhiraja.svg?label=Follow%20@imbudhiraja&style=social)](https://github.com/imbudhiraja/) [![Medium](https://img.shields.io/static/v1.svg?label=Medium&message=@imbudhiraja&logo=medium&style=flat&color=blue)](https://medium.com/@imbudhiraja) [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=iammanishbudhiraja&logo=instagram)](https://instagram.com/iammanishbudhiraja)
-[Freecodecamp](https://img.shields.io/static/v1.svg?label=Freecodecamp&message=imbudhiraja&color=blue)](https://www.freecodecamp.org/imbudhiraja)
-
 
