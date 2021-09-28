@@ -5,6 +5,8 @@ Currently I am working as a **Senior Software Engineer**. I adores JavaScript a 
 
 <br /> **You can find me on [LinkedIn](https://www.linkedin.com/in/imbudhiraja/) and [Medium](https://medium.com/@imbudhiraja)**.
 
+![](https://komarev.com/ghpvc/?username=imbudhiraja&color=blueviolet)
+
 
 ### :gear: My skills include:
 
