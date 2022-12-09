@@ -14,7 +14,7 @@ Currently I am working as a **Senior Software Engineer**. I adores JavaScript a 
 
 - **Backend**: `Node.js`, `Express`, `Hapi`, `GraphQl`, `Socket.io`, `Firebase`, `Apollo Server`
 
-- **Databases**: `MongoDB`, `Postgresql`
+- **Databases**: `MongoDB`, `Postgresql`, `MySQL`, `Micorsoft SQL Server`
 
 - **Testing frameworks**: `Mocha`, `Chai`, `Sinon`, `Enzyme`, `Jest`, `Snapshot Testing`
 
